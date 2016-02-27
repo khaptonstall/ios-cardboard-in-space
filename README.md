@@ -1,7 +1,7 @@
 # ios-cardboard-in-space
 My first go at working with Unity and the Google Cardboard SDK.
 
-## Steps To Run App
+## Steps To Run App   
 If you wish to download this and run it on iOS you'll need to do a few things first. 
 1. Download and unzip project   
 2. Download and run [Unity][unity]   
