@@ -14,10 +14,10 @@ If you wish to download this and run it on iOS you'll need to do a few things fi
 9. Build and run on device
 
 ## Screen Shots
-<img src="https://raw.github.com/khaptonstall/ios-cardboard-in-space/master/Screens/Screen1.png" width="180" />
+<img src="https://raw.github.com/khaptonstall/ios-cardboard-in-space/master/Screens/Screen1.png" width="360" />
 
 
-<img src="https://raw.github.com/khaptonstall/ios-cardboard-in-space/master/Screens/Screen2.png" width="180" />
+<img src="https://raw.github.com/khaptonstall/ios-cardboard-in-space/master/Screens/Screen2.png" width="360" />
 
 
 
